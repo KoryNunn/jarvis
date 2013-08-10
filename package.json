@@ -19,7 +19,9 @@
     "man"
   ],
   "devDependencies" : {
-    "tape" : "1.0.x"
+    "tape" : "1.0.x",
+    "crel":"x.x.x",
+    "beeline":"x.x.x"
   },
   "author": "Maurice Butler <maurice.butler@gmail.com>",
   "license": "BSD"
